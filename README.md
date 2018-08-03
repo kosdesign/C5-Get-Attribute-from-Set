@@ -1,5 +1,5 @@
 # C5-Get-Attribute-from-Set
-Get all data from attribute set
+Concrete5, Get all data from attribute set
 
 
 ## A Simple Example
